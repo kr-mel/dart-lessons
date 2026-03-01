@@ -12,5 +12,5 @@ void main() {
 
   print('name : $name, age : $age, salary : $salary');
   // TODO : apply condation used if
-  tryParseInt('abc');
+ // tryParseInt('abc');
 }
